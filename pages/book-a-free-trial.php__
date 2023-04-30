@@ -1,0 +1,1688 @@
+<?php ?>
+<!doctype html>
+<html class="no-js" lang="en">
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<head>
+  
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#000000">
+
+  <link rel="preconnect" href="https://cdn.shopify.com/" crossorigin>
+  <link rel="preconnect" href="https://fonts.shopifycdn.com/" crossorigin>
+  <link rel="preconnect" href="https://monorail-edge.shopifysvc.com/">
+  <link rel="preconnect" href="https://fonts.gstatic.com/">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700;800;900&amp;display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&amp;display=swap" rel="stylesheet">
+
+  <link rel="preload" href="../cdn.shopify.com/s/files/1/0534/8674/7803/t/17/assets/theme576c.css?v=4784386174513061085"
+    as="style">
+  <link rel="preload" as="font"
+    href="https://fonts.shopifycdn.com/montserrat/montserrat_n8.d0ee6fdb3a3fec57b7ba86e76adad5b86d8b298f.woff2?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=51ce399dde7e919dd9f942ca27716d9860477a9ec3ac09841ad69cb612da8a23"
+    type="font/woff2" crossorigin>
+  <link rel="preload" as="font"
+    href="https://fonts.shopifycdn.com/montserrat/montserrat_n3.e9c2ec7697570c33b13645dbd15f3f729c5e921b.woff2?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=495f10c166a4ae9fd90e6cd25c6556ccbba450a72e3ea66138cee5da84c311e8"
+    type="font/woff2" crossorigin>
+  <link rel="preload" as="font"
+    href="https://fonts.shopifycdn.com/montserrat/montserrat_n7.c496e9cf2031deec4c4bca338faa81971c8631d4.woff2?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=1b91fbe63576c99c09654f9a5b7aebb2d688e93240167e922b41684de1813cac"
+    type="font/woff2" crossorigin>
+  <link rel="preload" href="../cdn.shopify.com/s/files/1/0534/8674/7803/t/17/assets/theme1c03.js?v=810795017620914147"
+    as="script">
+  <link rel="preload"
+    href="../cdn.shopify.com/s/files/1/0534/8674/7803/t/17/assets/lazysizes12ca.js?v=6309855486832407013" as="script">
+  <a href="https://codifyinfotech.com/" style="display: none;" rel="noopener">Codify Infotech</a>
+  <link rel="canonical" href="book-a-free-trial.php">
+  <link rel="shortcut icon"
+    href="../cdn.shopify.com/s/files/1/0534/8674/7803/files/preloader-icon_32x325f35.png?v=1623501218" type="image/png">
+  <title>Book A Trial
+    &ndash; Minksha Milk</title>
+  <meta name="description" content="Book A Free Trial of farm fresh Pure Gir Cows A2 Milk delivered at your door step.">
+  <!-- /snippets/social-meta-tags.liquid -->
+
+
+  <meta property="og:site_name" content="Minksha Milk">
+  <meta property="og:url" content="book-a-free-trial.php">
+  <meta property="og:title" content="Book A Free Trial">
+  <meta property="og:type" content="website">
+  <meta property="og:description"
+    content="Book A Free Trial of farm fresh Pure Gir Cows A2 Milk delivered at your door step.">
+  <meta property="og:image"
+    content="../cdn.shopify.com/s/files/1/0534/8674/7803/files/logo-removebg-preview0435.png?v=1622555408">
+  <meta property="og:image:secure_url"
+    content="../cdn.shopify.com/s/files/1/0534/8674/7803/files/logo-removebg-preview0435.png?v=1622555408">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="628">
+
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Book A Trial">
+  <meta name="twitter:description"
+    content="Book A Free Trial of farm fresh Pure Gir Cows A2 Milk delivered at your door step.">
+
+
+  <style data-shopify>
+    :root {
+      --color-text: #000000;
+      --color-text-rgb: 0, 0, 0;
+      --color-body-text: #000000;
+      --color-sale-text: #DA2F0C;
+      --color-small-button-text-border: #162950;
+      --color-text-field: #ffffff;
+      --color-text-field-text: #000000;
+      --color-text-field-text-rgb: 0, 0, 0;
+
+      --color-btn-primary: #000000;
+      --color-btn-primary-darker: #000000;
+      --color-btn-primary-text: #ffffff;
+
+      --color-blankstate: rgba(0, 0, 0, 0.35);
+      --color-blankstate-border: rgba(0, 0, 0, 0.2);
+      --color-blankstate-background: rgba(0, 0, 0, 0.1);
+
+      --color-text-focus: #404040;
+      --color-overlay-text-focus: #e6e6e6;
+      --color-btn-primary-focus: #404040;
+      --color-btn-social-focus: #cbcbcb;
+      --color-small-button-text-border-focus: #27488c;
+      --predictive-search-focus: #f2f2f2;
+
+      --color-body: #ffffff;
+      --color-bg: #ffffff;
+      --color-bg-rgb: 255, 255, 255;
+      --color-bg-alt: rgba(0, 0, 0, 0.05);
+      --color-bg-currency-selector: rgba(0, 0, 0, 0.2);
+
+      --color-overlay-title-text: #ffffff;
+      --color-image-overlay: #3d3d3d;
+      --color-image-overlay-rgb: 61, 61, 61;
+      --opacity-image-overlay: 0.4;
+      --hover-overlay-opacity: 0.8;
+
+      --color-border: #e4e4e4;
+      --color-border-form: #909090;
+      --color-border-form-darker: #767676;
+
+      --svg-select-icon: url(http://cdn.shopify.com/s/files/1/0534/8674/7803/t/17/assets/ico-select.svg?v=2900367270910467858);
+      --slick-img-url: url(../cdn.shopify.com/s/files/1/0534/8674/7803/t/17/assets/ajax-loader2ab5.gif?v=4135686330247201572);
+
+      --font-weight-body--bold: 700;
+      --font-weight-body--bolder: 400;
+
+      --font-stack-header: Montserrat, sans-serif;
+      --font-style-header: normal;
+      --font-weight-header: 800;
+
+      --font-stack-body: Montserrat, sans-serif;
+      --font-style-body: normal;
+      --font-weight-body: 300;
+
+      --font-size-header: 26;
+
+      --font-size-base: 18;
+
+      --font-h1-desktop: 35;
+      --font-h1-mobile: 32;
+      --font-h2-desktop: 20;
+      --font-h2-mobile: 18;
+      --font-h3-mobile: 20;
+      --font-h4-desktop: 17;
+      --font-h4-mobile: 15;
+      --font-h5-desktop: 15;
+      --font-h5-mobile: 13;
+      --font-h6-desktop: 14;
+      --font-h6-mobile: 12;
+
+      --font-mega-title-large-desktop: 65;
+
+      --font-rich-text-large: 20;
+      --font-rich-text-small: 15;
+
+
+      --color-video-bg: #f2f2f2;
+
+
+      --global-color-image-loader-primary: #fff;
+      --global-color-image-loader-secondary: #fff;
+    }
+
+    .templateWrapper {
+      background-image: none;
+      background-color: #FFFFFF;
+      width: 380px;
+      height: 580px;
+      border-color: rgba(214, 214, 214, 1.0);
+    }
+
+    .templateWrapper {
+      border-style: solid;
+      border-color: rgba(214, 214, 214, 1.0);
+      border-top-width: 1px;
+      border-right-width: 1px;
+      border-bottom-width: 1px;
+      border-left-width: 1px;
+      -webkit-border-top-left-radius: 2px;
+      -moz-border-radius-topleft: 2px;
+      border-top-left-radius: 2px;
+      -webkit-border-top-right-radius: 2px;
+      -moz-border-radius-topright: 2px;
+      border-top-right-radius: 2px;
+      -webkit-border-bottom-right-radius: 2px;
+      -moz-border-radius-bottomright: 2px;
+      border-bottom-right-radius: 2px;
+      -webkit-border-bottom-left-radius: 2px;
+      -moz-border-radius-bottomleft: 2px;
+      border-bottom-left-radius: 2px;
+    }
+
+    .templateWrapper input {
+      border-style: solid !important;
+      border-color: rgba(229, 229, 229, 1.0);
+      border-top-width: 1px !important;
+      border-right-width: 1px !important;
+      border-bottom-width: 1px !important;
+      border-left-width: 1px !important;
+      -webkit-border-top-left-radius: 2px !important;
+      -moz-border-radius-topleft: 2px !important;
+      border-top-left-radius: 2px !important;
+      -webkit-border-top-right-radius: 2px !important;
+      -moz-border-radius-topright: 2px !important;
+      border-top-right-radius: 2px !important;
+      -webkit-border-bottom-right-radius: 2px !important;
+      -moz-border-radius-bottomright: 2px !important;
+      border-bottom-right-radius: 2px !important;
+      -webkit-border-bottom-left-radius: 2px !important;
+      -moz-border-radius-bottomleft: 2px !important;
+      border-bottom-left-radius: 2px !important;
+      display: block;
+      font-size: 12px;
+      width: 98%;
+      margin-bottom: 10px;
+      margin-top: 10px;
+    }
+
+    .disclosure__toggle,
+    input,
+    select,
+    textarea {
+      border: 0px solid var(--color-border-form) !important;
+    }
+
+    .templateWrapper lable {
+      font-family: Open Sans;
+      font-size: 13px;
+      color: #444444;
+      font-style: normal;
+      font-weight: 700;
+    }
+
+    .frmTitle {
+      font-family: Montserrat;
+      font-size: 26px;
+      color: #3C3C3C;
+      font-style: normal;
+      font-weight: 400;
+      text-align: center;
+      text-transform: capitalize;
+    }
+
+    .templateWrapper .frmDesc {
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      text-align: center;
+    }
+
+    .templateWrapper>.tempFrmWrapper {
+      margin: 5px 0px 5px 0px;
+      text-align: center;
+    }
+
+    .mobile {
+      display: block;
+    }
+
+    @media (max-width: 480px) {
+      .templateWrapper {
+        width: 322px;
+        height: 580px;
+        border-color: rgba(214, 214, 214, 1.0);
+      }
+
+      .mobile {
+        display: none;
+      }
+
+      .frmTitle {
+        font-family: Montserrat;
+        font-size: 20px;
+        color: #3C3C3C;
+        font-style: normal;
+        font-weight: 400;
+        text-align: center;
+        text-transform: capitalize;
+      }
+    }
+
+    .header-wrap .site-header__logo img {
+      margin: 0 auto;
+    }
+
+    @media (max-width: 480px) {
+      .header-wrap .site-header__logo img {
+        margin: 0;
+      }
+
+    }
+  </style>
+
+
+  <style>
+    *,
+    ::after,
+    ::before {
+      box-sizing: border-box
+    }
+
+    body {
+      margin: 0
+    }
+
+    body,
+    html {
+      background-color: var(--color-body)
+    }
+
+    body,
+    button {
+      font-size: calc(var(--font-size-base) * 1px);
+      font-family: var(--font-stack-body);
+      font-style: var(--font-style-body);
+      font-weight: var(--font-weight-body);
+      color: var(--color-text);
+      line-height: 1.5
+    }
+
+    body,
+    button {
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%
+    }
+
+    .border-bottom {
+      border-bottom: 1px solid var(--color-border)
+    }
+
+    .btn--link {
+      background-color: transparent;
+      border: 0;
+      margin: 0;
+      color: var(--color-text);
+      text-align: left
+    }
+
+    .text-right {
+      text-align: right
+    }
+
+    .icon {
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      vertical-align: middle;
+      fill: currentColor
+    }
+
+    .icon__fallback-text,
+    .visually-hidden {
+      position: absolute !important;
+      overflow: hidden;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      width: 1px;
+      margin: -1px;
+      padding: 0;
+      border: 0
+    }
+
+    svg.icon:not(.icon--full-color) circle,
+    svg.icon:not(.icon--full-color) ellipse,
+    svg.icon:not(.icon--full-color) g,
+    svg.icon:not(.icon--full-color) line,
+    svg.icon:not(.icon--full-color) path,
+    svg.icon:not(.icon--full-color) polygon,
+    svg.icon:not(.icon--full-color) polyline,
+    svg.icon:not(.icon--full-color) rect,
+    symbol.icon:not(.icon--full-color) circle,
+    symbol.icon:not(.icon--full-color) ellipse,
+    symbol.icon:not(.icon--full-color) g,
+    symbol.icon:not(.icon--full-color) line,
+    symbol.icon:not(.icon--full-color) path,
+    symbol.icon:not(.icon--full-color) polygon,
+    symbol.icon:not(.icon--full-color) polyline,
+    symbol.icon:not(.icon--full-color) rect {
+      fill: inherit;
+      stroke: inherit
+    }
+
+    li {
+      list-style: none
+    }
+
+    .list--inline {
+      padding: 0;
+      margin: 0
+    }
+
+    .list--inline>li {
+      display: inline-block;
+      margin-bottom: 0;
+      vertical-align: middle
+    }
+
+    a {
+      color: var(--color-text);
+      text-decoration: none
+    }
+
+    .h1,
+    .h2,
+    h1,
+    h2 {
+      margin: 0 0 17.5px;
+      font-family: var(--font-stack-header);
+      font-style: var(--font-style-header);
+      font-weight: var(--font-weight-header);
+      line-height: 1.2;
+      overflow-wrap: break-word;
+      word-wrap: break-word
+    }
+
+    .h1 a,
+    .h2 a,
+    h1 a,
+    h2 a {
+      color: inherit;
+      text-decoration: none;
+      font-weight: inherit
+    }
+
+    .h1,
+    h1 {
+      font-size: calc(((var(--font-h1-desktop))/ (var(--font-size-base))) * 1em);
+      text-transform: none;
+      letter-spacing: 0
+    }
+
+    @media only screen and (max-width:749px) {
+
+      .h1,
+      h1 {
+        font-size: calc(((var(--font-h1-mobile))/ (var(--font-size-base))) * 1em)
+      }
+    }
+
+    .h2,
+    h2 {
+      font-size: calc(((var(--font-h2-desktop))/ (var(--font-size-base))) * 1em);
+      text-transform: uppercase;
+      letter-spacing: .1em
+    }
+
+    @media only screen and (max-width:749px) {
+
+      .h2,
+      h2 {
+        font-size: calc(((var(--font-h2-mobile))/ (var(--font-size-base))) * 1em)
+      }
+    }
+
+    p {
+      color: var(--color-body-text);
+      margin: 0 0 19.44444px
+    }
+
+    @media only screen and (max-width:749px) {
+      p {
+        font-size: calc(((var(--font-size-base) - 1)/ (var(--font-size-base))) * 1em)
+      }
+    }
+
+    p:last-child {
+      margin-bottom: 0
+    }
+
+    @media only screen and (max-width:749px) {
+      .small--hide {
+        display: none !important
+      }
+    }
+
+    .grid {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      margin-left: -30px
+    }
+
+    .grid::after {
+      content: '';
+      display: table;
+      clear: both
+    }
+
+    @media only screen and (max-width:749px) {
+      .grid {
+        margin-left: -22px
+      }
+    }
+
+    .grid::after {
+      content: '';
+      display: table;
+      clear: both
+    }
+
+    .grid--no-gutters {
+      margin-left: 0
+    }
+
+    .grid--no-gutters .grid__item {
+      padding-left: 0
+    }
+
+    .grid--table {
+      display: table;
+      table-layout: fixed;
+      width: 100%
+    }
+
+    .grid--table>.grid__item {
+      float: none;
+      display: table-cell;
+      vertical-align: middle
+    }
+
+    .grid__item {
+      float: left;
+      padding-left: 30px;
+      width: 100%
+    }
+
+    @media only screen and (max-width:749px) {
+      .grid__item {
+        padding-left: 22px
+      }
+    }
+
+    .grid__item[class*="--push"] {
+      position: relative
+    }
+
+    @media only screen and (min-width:750px) {
+      .medium-up--one-quarter {
+        width: 25%
+      }
+
+      .medium-up--push-one-third {
+        width: 33.33%
+      }
+
+      .medium-up--one-half {
+        width: 50%
+      }
+
+      .medium-up--push-one-third {
+        left: 33.33%;
+        position: relative
+      }
+    }
+
+    .site-header {
+      position: relative;
+      background-color: var(--color-body)
+    }
+
+    @media only screen and (max-width:749px) {
+      .site-header {
+        border-bottom: 1px solid var(--color-border)
+      }
+    }
+
+    @media only screen and (min-width:750px) {
+      .site-header {
+        padding: 0 55px
+      }
+
+      .site-header.logo--center {
+        padding-top: 30px
+      }
+    }
+
+    .site-header__logo {
+      margin: 15px 0
+    }
+
+    .logo-align--center .site-header__logo {
+      text-align: center;
+      margin: 0 auto
+    }
+
+    @media only screen and (max-width:749px) {
+      .logo-align--center .site-header__logo {
+        text-align: left;
+        margin: 15px 0
+      }
+    }
+
+    @media only screen and (max-width:749px) {
+      .site-header__logo {
+        padding-left: 22px;
+        text-align: left
+      }
+
+      .site-header__logo img {
+        margin: 0
+      }
+    }
+
+    .site-header__logo-link {
+      display: inline-block;
+      word-break: break-word
+    }
+
+    @media only screen and (min-width:750px) {
+      .logo-align--center .site-header__logo-link {
+        margin: 0 auto
+      }
+    }
+
+    .site-header__logo-image {
+      display: block
+    }
+
+    @media only screen and (min-width:750px) {
+      .site-header__logo-image {
+        margin: 0 auto
+      }
+    }
+
+    .site-header__logo-image img {
+      width: 100%
+    }
+
+    .site-header__logo-image--centered img {
+      margin: 0 auto
+    }
+
+    .site-header__logo img {
+      display: block
+    }
+
+    .site-header__icons {
+      position: relative;
+      white-space: nowrap
+    }
+
+    @media only screen and (max-width:749px) {
+      .site-header__icons {
+        width: auto;
+        padding-right: 13px
+      }
+
+      .site-header__icons .btn--link,
+      .site-header__icons .site-header__cart {
+        font-size: calc(((var(--font-size-base))/ (var(--font-size-base))) * 1em)
+      }
+    }
+
+    .site-header__icons-wrapper {
+      position: relative;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      width: 100%;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      -moz-align-items: center;
+      -ms-align-items: center;
+      -o-align-items: center;
+      align-items: center;
+      -webkit-justify-content: flex-end;
+      -ms-justify-content: flex-end;
+      justify-content: flex-end
+    }
+
+    .site-header__account,
+    .site-header__cart,
+    .site-header__search {
+      position: relative
+    }
+
+    .site-header__search.site-header__icon {
+      display: none
+    }
+
+    @media only screen and (min-width:1400px) {
+      .site-header__search.site-header__icon {
+        display: block
+      }
+    }
+
+    .site-header__search-toggle {
+      display: block
+    }
+
+    @media only screen and (min-width:750px) {
+
+      .site-header__account,
+      .site-header__cart {
+        padding: 10px 11px
+      }
+    }
+
+    .site-header__cart-title,
+    .site-header__search-title {
+      position: absolute !important;
+      overflow: hidden;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      width: 1px;
+      margin: -1px;
+      padding: 0;
+      border: 0;
+      display: block;
+      vertical-align: middle
+    }
+
+    .site-header__cart-title {
+      margin-right: 3px
+    }
+
+    .site-header__cart-count {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: absolute;
+      right: .4rem;
+      top: .2rem;
+      font-weight: 700;
+      background-color: var(--color-btn-primary);
+      color: var(--color-btn-primary-text);
+      border-radius: 50%;
+      min-width: 1em;
+      height: 1em
+    }
+
+    .site-header__cart-count span {
+      font-family: HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: calc(11em / 16);
+      line-height: 1
+    }
+
+    @media only screen and (max-width:749px) {
+      .site-header__cart-count {
+        top: calc(7em / 16);
+        right: 0;
+        border-radius: 50%;
+        min-width: calc(19em / 16);
+        height: calc(19em / 16)
+      }
+    }
+
+    @media only screen and (max-width:749px) {
+      .site-header__cart-count span {
+        padding: .25em calc(6em / 16);
+        font-size: 12px
+      }
+    }
+
+    .site-header__menu {
+      display: none
+    }
+
+    @media only screen and (max-width:749px) {
+      .site-header__icon {
+        display: inline-block;
+        vertical-align: middle;
+        padding: 10px 11px;
+        margin: 0
+      }
+    }
+
+    @media only screen and (min-width:750px) {
+      .site-header__icon .icon-search {
+        margin-right: 3px
+      }
+    }
+
+    .announcement-bar {
+      z-index: 10;
+      position: relative;
+      text-align: center;
+      border-bottom: 1px solid transparent;
+      padding: 2px
+    }
+
+    .announcement-bar__link {
+      display: block
+    }
+
+    .announcement-bar__message {
+      display: block;
+      padding: 11px 22px;
+      font-size: calc(((16)/ (var(--font-size-base))) * 1em);
+      font-weight: var(--font-weight-header)
+    }
+
+    @media only screen and (min-width:750px) {
+      .announcement-bar__message {
+        padding-left: 55px;
+        padding-right: 55px
+      }
+    }
+
+    .site-nav {
+      position: relative;
+      padding: 0;
+      text-align: center;
+      margin: 25px 0
+    }
+
+    .site-nav a {
+      padding: 3px 10px
+    }
+
+    .site-nav__link {
+      display: block;
+      white-space: nowrap
+    }
+
+    .site-nav--centered .site-nav__link {
+      padding-top: 0
+    }
+
+    .site-nav__link .icon-chevron-down {
+      width: calc(8em / 16);
+      height: calc(8em / 16);
+      margin-left: .5rem
+    }
+
+    .site-nav__label {
+      border-bottom: 1px solid transparent
+    }
+
+    .site-nav__link--active .site-nav__label {
+      border-bottom-color: var(--color-text)
+    }
+
+    .site-nav__link--button {
+      border: none;
+      background-color: transparent;
+      padding: 3px 10px
+    }
+
+    .site-header__mobile-nav {
+      z-index: 11;
+      position: relative;
+      background-color: var(--color-body)
+    }
+
+    @media only screen and (max-width:749px) {
+      .site-header__mobile-nav {
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        width: 100%;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        -ms-align-items: center;
+        -o-align-items: center;
+        align-items: center
+      }
+    }
+
+    .mobile-nav--open .icon-close {
+      display: none
+    }
+
+    .main-content {
+      opacity: 0
+    }
+
+    .main-content .shopify-section {
+      display: none
+    }
+
+    .main-content .shopify-section:first-child {
+      display: inherit
+    }
+
+    .critical-hidden {
+      display: none
+    }
+  </style>
+
+  <script>
+    window.performance.mark('debut:theme_stylesheet_loaded.start');
+
+    function onLoadStylesheet() {
+      performance.mark('debut:theme_stylesheet_loaded.end');
+      performance.measure('debut:theme_stylesheet_loaded', 'debut:theme_stylesheet_loaded.start',
+        'debut:theme_stylesheet_loaded.end');
+
+      var url = "../cdn.shopify.com/s/files/1/0534/8674/7803/t/17/assets/theme576c.css?v=4784386174513061085";
+      var link = document.querySelector('link[href="' + url + '"]');
+      link.loaded = true;
+      link.dispatchEvent(new Event('load'));
+    }
+  </script>
+
+  <link rel="stylesheet"
+    href="../cdn.shopify.com/s/files/1/0534/8674/7803/t/17/assets/theme576c.css?v=4784386174513061085" type="text/css"
+    media="print" onload="this.media='all';onLoadStylesheet()">
+
+  <style>
+    @font-face {
+      font-family: Montserrat;
+      font-weight: 800;
+      font-style: normal;
+      font-display: swap;
+      src: url("https://fonts.shopifycdn.com/montserrat/montserrat_n8.d0ee6fdb3a3fec57b7ba86e76adad5b86d8b298f.woff2?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=51ce399dde7e919dd9f942ca27716d9860477a9ec3ac09841ad69cb612da8a23") format("woff2"),
+        url("https://fonts.shopifycdn.com/montserrat/montserrat_n8.57046b0201ba1025a279f9546bf469833729dc63.woff?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=f15de133a6ff0a834b344f112e45ebdab2e1483de5eb624993ec51f024b8a7b6") format("woff");
+    }
+
+    @font-face {
+      font-family: Montserrat;
+      font-weight: 300;
+      font-style: normal;
+      font-display: swap;
+      src: url("https://fonts.shopifycdn.com/montserrat/montserrat_n3.e9c2ec7697570c33b13645dbd15f3f729c5e921b.woff2?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=495f10c166a4ae9fd90e6cd25c6556ccbba450a72e3ea66138cee5da84c311e8") format("woff2"),
+        url("https://fonts.shopifycdn.com/montserrat/montserrat_n3.f481a31eaff8b48749cc413f5c6990b1db3c9103.woff?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=748dcad7cad0b253984021217018a75c40868289c33d42a8eeb5a566e8ee7ae4") format("woff");
+    }
+
+    @font-face {
+      font-family: Montserrat;
+      font-weight: 700;
+      font-style: normal;
+      font-display: swap;
+      src: url("https://fonts.shopifycdn.com/montserrat/montserrat_n7.c496e9cf2031deec4c4bca338faa81971c8631d4.woff2?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=1b91fbe63576c99c09654f9a5b7aebb2d688e93240167e922b41684de1813cac") format("woff2"),
+        url("https://fonts.shopifycdn.com/montserrat/montserrat_n7.78b0223375c94b39ce1af7e09a0225f2bb3d05f7.woff?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=096d3481c4bc1620abceea3b2ea34b4cd229caaf946697bdb5f81e82c5992eb2") format("woff");
+    }
+
+    @font-face {
+      font-family: Montserrat;
+      font-weight: 400;
+      font-style: normal;
+      font-display: swap;
+      src: url("https://fonts.shopifycdn.com/montserrat/montserrat_n4.1d581f6d4bf1a97f4cbc0b88b933bc136d38d178.woff2?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=f65d86b09fd6f7a6c412293d4e28998a74b265a2f1dded0ca5db91cc78e9b9fc") format("woff2"),
+        url("https://fonts.shopifycdn.com/montserrat/montserrat_n4.cfce41a967758ce5a9b7d48daeb5b028fd977a9b.woff?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=d584b87f144eac6e313f80a7583bd463c72e06064c55b5b86bec5145702c1e57") format("woff");
+    }
+
+    @font-face {
+      font-family: Montserrat;
+      font-weight: 300;
+      font-style: italic;
+      font-display: swap;
+      src: url("https://fonts.shopifycdn.com/montserrat/montserrat_i3.0851c828f2d9e24bc7e62370e5b23fbce45a9776.woff2?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=b019be3d28066ead7614107bd674e1e8149faf9b2facf3f608148c6a971ca422") format("woff2"),
+        url("https://fonts.shopifycdn.com/montserrat/montserrat_i3.2ea997ee0b5ec44aa35a893518aa91f824531238.woff?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=f75529780a24e6429e4adb1f0a5dcb17d03a5d9ddbb01b1708d07a30568da67e") format("woff");
+    }
+
+    @font-face {
+      font-family: Montserrat;
+      font-weight: 700;
+      font-style: italic;
+      font-display: swap;
+      src: url("https://fonts.shopifycdn.com/montserrat/montserrat_i7.83866c3eec90071fa974c17980ffb42977f9e667.woff2?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=67eb4f585cd7c0cd93b40ce94018fb5eadaac5dfcb13484901a5ff9f2a97361d") format("woff2"),
+        url("https://fonts.shopifycdn.com/montserrat/montserrat_i7.25524241b12d864609c85325613d60efcf1a87e3.woff?h1=bmF0aXZlbWlsay5jby5pbg&amp;hmac=a1a5d62f829b5e3da3f3325a79f1936355a329fc2a1b7fa7e3d30fbcb3c37d12") format("woff");
+    }
+
+    .header-wrap .for-pdding-header {
+      padding-top: 50px;
+    }
+
+    .header-wrap .site-header__logo img {
+      margin: 0 auto;
+    }
+
+    @media (max-width: 480px) {
+      .header-wrap .site-header__logo img {
+        margin: 0;
+      }
+
+      .header-wrap .for-pdding-header {
+        padding-top: 0px;
+      }
+
+    }
+  </style>
+
+  <script>
+    var theme = {
+      breakpoints: {
+        medium: 750,
+        large: 990,
+        widescreen: 1400
+      },
+      strings: {
+        addToCart: "Add to cart",
+        soldOut: "Sold out",
+        unavailable: "Unavailable",
+        regularPrice: "Regular price",
+        salePrice: "Sale price",
+        sale: "Sale",
+        fromLowestPrice: "from [price]",
+        vendor: "Vendor",
+        showMore: "Show More",
+        showLess: "Show Less",
+        searchFor: "Search for",
+        addressError: "Error looking up that address",
+        addressNoResults: "No results for that address",
+        addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+        authError: "There was a problem authenticating your Google Maps account.",
+        newWindow: "Opens in a new window.",
+        external: "Opens external website.",
+        newWindowExternal: "Opens external website in a new window.",
+        removeLabel: "Remove [product]",
+        update: "Update",
+        quantity: "Quantity",
+        discountedTotal: "Discounted total",
+        regularTotal: "Regular total",
+        priceColumn: "See Price column for discount details.",
+        quantityMinimumMessage: "Quantity must be 1 or more",
+        cartError: "There was an error while updating your cart. Please try again.",
+        removedItemMessage: "Removed \u003cspan class=\"cart__removed-product-details\"\u003e([quantity]) [link]\u003c\/span\u003e from your cart.",
+        unitPrice: "Unit price",
+        unitPriceSeparator: "per",
+        oneCartCount: "1 item",
+        otherCartCount: "[count] items",
+        quantityLabel: "Quantity: [count]",
+        products: "Products",
+        loading: "Loading",
+        number_of_results: "[result_number] of [results_count]",
+        number_of_results_found: "[results_count] results found",
+        one_result_found: "1 result found"
+      },
+      moneyFormat: "Rs. {{amount}}",
+      moneyFormatWithCurrency: "Rs. {{amount}}",
+      settings: {
+        predictiveSearchEnabled: true,
+        predictiveSearchShowPrice: false,
+        predictiveSearchShowVendor: false
+      },
+      stylesheet: "//cdn.shopify.com/s/files/1/0534/8674/7803/t/17/assets/theme.css?v=4784386174513061085"
+    };
+    if (sessionStorage.getItem("backToCollection")) {
+      sessionStorage.removeItem("backToCollection")
+    }
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+  </script>
+  <script src="../cdn.shopify.com/s/files/1/0534/8674/7803/t/17/assets/vendore362.js?v=16598981569566967302"
+    defer="defer"></script>
+  <script src="../cdn.shopify.com/s/files/1/0534/8674/7803/t/17/assets/theme1c03.js?v=810795017620914147" defer="defer">
+  </script>
+  <script src="../cdn.shopify.com/s/files/1/0534/8674/7803/t/17/assets/lazysizes12ca.js?v=6309855486832407013"
+    async="async"></script>
+
+  <script type="text/javascript">
+    if (window.MSInputMethodContext && document.documentMode) {
+      var scripts = document.getElementsByTagName('script')[0];
+      var polyfill = document.createElement("script");
+      polyfill.defer = true;
+      polyfill.src =
+        "../cdn.shopify.com/s/files/1/0534/8674/7803/t/17/assets/ie11CustomProperties.mincc9a.js?v=14620839920147293620";
+
+      scripts.parentNode.insertBefore(polyfill, scripts);
+    }
+  </script>
+
+  <script>
+    window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');
+  </script>
+  <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/53486747803/digital_wallets/dialog">
+  <link href="https://monorail-edge.shopifysvc.com/" rel="dns-prefetch">
+  <script id="shopify-features" type="application/json">
+    {
+      "locale": "en"
+    }
+  </script>
+  <script>
+    (function () {
+      if ("sendBeacon" in navigator && "performance" in window) {
+        var session_token = document.cookie.match(/_shopify_s=([^;]*)/);
+
+        function handle_abandonment_event(e) {
+          var entries = performance.getEntries().filter(function (entry) {
+            return /monorail-edge.shopifysvc.com/.test(entry.name);
+          });
+          if (!window.abandonment_tracked && entries.length === 0) {
+            window.abandonment_tracked = true;
+            var currentMs = Date.now();
+            var navigation_start = performance.timing.navigationStart;
+            var payload = {
+              shop_id: 53486747803,
+              url: window.location.href,
+              navigation_start,
+              duration: currentMs - navigation_start,
+              session_token: session_token && session_token.length === 2 ? session_token[1] : "",
+              page_type: "page"
+            };
+            window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({
+              schema_id: "online_store_buyer_site_abandonment/1.1",
+              payload: payload,
+              metadata: {
+                event_created_at_ms: currentMs,
+                event_sent_at_ms: currentMs
+              }
+            }));
+          }
+        }
+        window.addEventListener('pagehide', handle_abandonment_event);
+      }
+    }());
+  </script>
+  <script>
+    var Shopify = Shopify || {};
+    Shopify.shop = "Minkshamilk2021.myshopify.com";
+    Shopify.locale = "en";
+    Shopify.currency = {
+      "active": "INR",
+      "rate": "1.0"
+    };
+    Shopify.country = "IN";
+    Shopify.theme = {
+      "name": "Codify Development | new design",
+      "id": 123359821979,
+      "theme_store_id": 796,
+      "role": "main"
+    };
+    Shopify.theme.handle = "null";
+    Shopify.theme.style = {
+      "id": null,
+      "handle": null
+    };
+    Shopify.cdnHost = "cdn.shopify.com";
+  </script>
+  <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+  <script>
+    ! function (o) {
+      function n() {
+        var o = [];
+
+        function n() {
+          o.push(Array.prototype.slice.apply(arguments))
+        }
+        return n.q = o, n
+      }
+      var t = o.Shopify = o.Shopify || {};
+      t.loadFeatures = n(), t.autoloadFeatures = n()
+    }(window);
+  </script>
+  <script id="__st">
+    var __st = {
+      "a": 53486747803,
+      "offset": 19800,
+      "reqid": "7be3fcaf-efcc-4640-aabb-ce1d514d5796",
+      "pageurl": "Minkshamilk.co.in\/pages\/book-a-free-trial?utm_source=google\u0026utm_medium=cpc\u0026utm_campaign=google-search-a2\u0026gclid=CjwKCAjwuvmHBhAxEiwAWAYj-CW2DQ83Zn82_CtJoJ2uY8Wk27GUyysjOO9xXkRN5oW4ERyr3z4aZBoCl50QAvD_BwE",
+      "s": "pages-79901687963",
+      "u": "af7bfa1b9af6",
+      "p": "page",
+      "rtyp": "page",
+      "rid": 79901687963
+    };
+  </script>
+</head>
+
+<body class="template-page tmplt-page-book-sample loaded">
+  
+  <style data-shopify>
+    .cart-popup {
+      box-shadow: 1px 1px 10px 2px rgba(228, 228, 228, 0.5);
+    }
+  </style>
+  <div class="cart-popup-wrapper cart-popup-wrapper--hidden critical-hidden" role="dialog" aria-modal="true"
+    aria-labelledby="CartPopupHeading" data-cart-popup-wrapper>
+    <div class="cart-popup" data-cart-popup tabindex="-1">
+      <div class="cart-popup__header">
+        <h2 id="CartPopupHeading" class="cart-popup__heading">Just added to your cart</h2>
+        <button class="cart-popup__close" aria-label="Close" data-cart-popup-close><svg aria-hidden="true"
+            focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40">
+            <path
+              d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z"
+              class="layer" /></svg></button>
+      </div>
+      <div class="cart-popup-item">
+        <div class="cart-popup-item__image-wrapper hide" data-cart-popup-image-wrapper data-image-loading-animation>
+        </div>
+        <div class="cart-popup-item__description">
+          <div>
+            <h3 class="cart-popup-item__title" data-cart-popup-title></h3>
+            <ul class="product-details" aria-label="Product details" data-cart-popup-product-details></ul>
+          </div>
+          <div class="cart-popup-item__quantity">
+            <span class="visually-hidden" data-cart-popup-quantity-label></span>
+            <span aria-hidden="true">Qty:</span>
+            <span aria-hidden="true" data-cart-popup-quantity></span>
+          </div>
+        </div>
+      </div>
+
+      <a href="../cart.html" class="cart-popup__cta-link btn btn--secondary-accent">
+        View cart (<span data-cart-popup-cart-quantity></span>)
+      </a>
+
+      <div class="cart-popup__dismiss">
+        <button class="cart-popup__dismiss-button text-link text-link--accent" data-cart-popup-dismiss>
+          Continue shopping
+        </button>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div id="shopify-section-header" class="shopify-section">
+
+    <div id="SearchDrawer" class="search-bar drawer drawer--top critical-hidden" role="dialog" aria-modal="true"
+      aria-label="Search" data-predictive-search-drawer>
+      <div class="search-bar__interior">
+        <div class="search-form__container" data-search-form-container>
+          <form class="search-form search-bar__form" action="https://Minkshamilk.co.in/search" method="get"
+            role="search">
+            <div class="search-form__input-wrapper">
+              <input type="text" name="q" placeholder="Search" role="combobox" aria-autocomplete="list"
+                aria-owns="predictive-search-results" aria-expanded="false" aria-label="Search" aria-haspopup="listbox"
+                class="search-form__input search-bar__input" data-predictive-search-drawer-input
+                data-base-url="/search" />
+              <input type="hidden" name="options[prefix]" value="last" aria-hidden="true" />
+              <div class="predictive-search-wrapper predictive-search-wrapper--drawer"
+                data-predictive-search-mount="drawer"></div>
+            </div>
+
+            <button class="search-bar__submit search-form__submit" type="submit" data-search-form-submit>
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search"
+                viewBox="0 0 37 40">
+                <path
+                  d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z" />
+                </svg>
+              <span class="icon__fallback-text">Submit</span>
+            </button>
+          </form>
+
+          <div class="search-bar__actions">
+            <button type="button" class="btn--link search-bar__close js-drawer-close">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 40 40">
+                <path
+                  d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z"
+                  class="layer" /></svg>
+              <span class="icon__fallback-text">Close search</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <div data-section-id="header" data-section-type="header-section" data-header-section class="header-wrap">
+
+
+      <header class="site-header border-bottom logo--left small-header-fixed" role="banner">
+        <div class="grid grid--no-gutters grid--table site-header__mobile-nav">
+
+
+          <div class="grid__item medium-up--one-quarter logo-align--left small--one-half">
+
+
+            <div class="h2 site-header__logo">
+
+
+              <a href="../index.php" class="site-header__logo-image" data-image-loading-animation>
+
+                <img class="lazyload js" src="assets/img/minksha-logo.png" data-src="assets/img/minksha-logo.png"
+                  data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]" data-aspectratio="1.15625"
+                  data-sizes="auto" alt="Minksha Milk" style="max-width: 40%;">
+                <noscript>
+
+                  <img
+                    src="../cdn.shopify.com/s/files/1/0534/8674/7803/files/logo-removebg-preview_95x0435.png?v=1622555408"
+                    srcset="//cdn.shopify.com/s/files/1/0534/8674/7803/files/logo-removebg-preview_95x.png?v=1622555408 1x, //cdn.shopify.com/s/files/1/0534/8674/7803/files/logo-removebg-preview_95x@2x.png?v=1622555408 2x"
+                    alt="Minksha Milk" style="max-width: 95px;">
+                </noscript>
+              </a>
+
+
+            </div>
+
+          </div>
+          <div
+            class="grid__item medium-up--three-quarters text-right site-header__icons site-header__icons--plus for-pdding-header">
+            <div class="header-icons large--hide">
+
+              <button class="btn-menu js-mobile-nav-toggle" aria-expanded="false" aria-controls="MobileNav">
+                <span class="icon-menu">
+                  <span class="menu-bar _1"></span>
+                  <span class="menu-bar _2"></span>
+                </span>
+              </button>
+            </div>
+
+            <div class="menu-icon-wrap large-down--hide">
+              <div class="header-menu" id="AccessibleNav" role="navigation">
+
+                <ul class="site-nav list--inline" id="SiteNav">
+
+
+
+
+
+                  <li class="site-nav--has-dropdown menu-item" data-has-dropdowns>
+
+                    <a href="#" class="site-nav__link site-nav__link--main site-nav__link--button menu-link">
+                      <span class="site-nav__label">Products</span><svg aria-hidden="true" focusable="false"
+                        role="presentation" class="icon icon-chevron-down" viewBox="0 0 9 9">
+                        <path
+                          d="M8.542 2.558a.625.625 0 0 1 0 .884l-3.6 3.6a.626.626 0 0 1-.884 0l-3.6-3.6a.625.625 0 1 1 .884-.884L4.5 5.716l3.158-3.158a.625.625 0 0 1 .884 0z"
+                          fill="#fff" /></svg>
+                    </a>
+
+
+                    <div class="site-nav__dropdown critical-hidden" id="SiteNavLabel-products">
+
+                      <ul>
+
+                        <li>
+                          <a href="milk.html" class="site-nav__link site-nav__child-link jsNav">
+                            <span class="site-nav__label">Milk</span>
+                          </a>
+                        </li>
+
+                        <li>
+                          <a href="a2ghee.html" class="site-nav__link site-nav__child-link jsNav">
+                            <span class="site-nav__label">Ghee</span>
+                          </a>
+                        </li>
+
+
+                      </ul>
+
+                    </div>
+                  </li>
+
+
+
+
+
+
+                  <li class="site-nav--active">
+                    <a href="book-a-free-trial.php"
+                      class="site-nav__link site-nav__link--main site-nav__link--active jsNav" aria-current="page">
+                      <span class="site-nav__label">Book a Trial</span>
+                    </a>
+                  </li>
+
+
+
+
+
+
+                  <li>
+                    <a href="minksha-assurance.html" class="site-nav__link site-nav__link--main jsNav">
+                      <span class="site-nav__label">Minksha Assurance</span>
+                    </a>
+                  </li>
+
+
+
+
+
+
+                  <li>
+                    <a href="about-us.html" class="site-nav__link site-nav__link--main jsNav">
+                      <span class="site-nav__label">About us</span>
+                    </a>
+                  </li>
+
+
+
+
+
+
+                  <li>
+                    <a href="contact.html" class="site-nav__link site-nav__link--main jsNav">
+                      <span class="site-nav__label">Contact</span>
+                    </a>
+                  </li>
+
+
+                </ul>
+
+              </div>
+              <div class="site-header__icons-wrapper">
+
+
+
+                <button type="button" class="btn--link site-header__icon site-header__search-toggle js-drawer-open-top"
+                  data-predictive-search-open-drawer>
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search"
+                    viewBox="0 0 37 40">
+                    <path
+                      d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z" />
+                    </svg>
+                  <span class="icon__fallback-text">Search</span>
+                </button>
+
+
+
+
+
+
+                <button type="button"
+                  class="btn--link site-header__icon site-header__menu js-mobile-nav-toggle mobile-nav--open"
+                  aria-controls="MobileNav" aria-expanded="false" aria-label="Menu">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-hamburger"
+                    viewBox="0 0 37 40">
+                    <path
+                      d="M33.5 25h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0-11.5h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0 23h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2z" />
+                    </svg>
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close"
+                    viewBox="0 0 40 40">
+                    <path
+                      d="M23.868 20.015L39.117 4.78c1.11-1.108 1.11-2.77 0-3.877-1.109-1.108-2.773-1.108-3.882 0L19.986 16.137 4.737.904C3.628-.204 1.965-.204.856.904c-1.11 1.108-1.11 2.77 0 3.877l15.249 15.234L.855 35.248c-1.108 1.108-1.108 2.77 0 3.877.555.554 1.248.831 1.942.831s1.386-.277 1.94-.83l15.25-15.234 15.248 15.233c.555.554 1.248.831 1.941.831s1.387-.277 1.941-.83c1.11-1.109 1.11-2.77 0-3.878L23.868 20.015z"
+                      class="layer" /></svg>
+                </button>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <nav class="mobile-nav-wrapper medium-up--hide critical-hidden" role="navigation">
+          <ul id="MobileNav" class="mobile-nav">
+
+            <li class="mobile-nav__item border-bottom">
+
+
+              <button type="button" class="btn--link js-toggle-submenu mobile-nav__link" data-target="products-1"
+                data-level="1" aria-expanded="false">
+                <span class="mobile-nav__label">Products</span>
+                <div class="mobile-nav__icon">
+                  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-right"
+                    viewBox="0 0 14 14">
+                    <path
+                      d="M3.871.604c.44-.439 1.152-.439 1.591 0l5.515 5.515s-.049-.049.003.004l.082.08c.439.44.44 1.153 0 1.592l-5.6 5.6a1.125 1.125 0 0 1-1.59-1.59L8.675 7 3.87 2.195a1.125 1.125 0 0 1 0-1.59z"
+                      fill="#fff" /></svg>
+                </div>
+              </button>
+              <ul class="mobile-nav__dropdown" data-parent="products-1" data-level="2">
+                <li class="visually-hidden" tabindex="-1" data-menu-title="2">Products Menu</li>
+                <li class="mobile-nav__item border-bottom">
+                  <div class="mobile-nav__table">
+                    <div class="mobile-nav__table-cell mobile-nav__return">
+                      <button class="btn--link js-toggle-submenu mobile-nav__return-btn" type="button"
+                        aria-expanded="true" aria-label="Products">
+                        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-left"
+                          viewBox="0 0 14 14">
+                          <path
+                            d="M10.129.604a1.125 1.125 0 0 0-1.591 0L3.023 6.12s.049-.049-.003.004l-.082.08c-.439.44-.44 1.153 0 1.592l5.6 5.6a1.125 1.125 0 0 0 1.59-1.59L5.325 7l4.805-4.805c.44-.439.44-1.151 0-1.59z"
+                            fill="#fff" /></svg>
+                      </button>
+                    </div>
+                    <span
+                      class="mobile-nav__sublist-link mobile-nav__sublist-header mobile-nav__sublist-header--main-nav-parent">
+                      <span class="mobile-nav__label">Products</span>
+                    </span>
+                  </div>
+                </li>
+
+
+                <li class="mobile-nav__item border-bottom">
+
+                  <a href="milk.html" class="mobile-nav__sublist-link jsNav">
+                    <span class="mobile-nav__label">Milk</span>
+                  </a>
+
+                </li>
+
+                <li class="mobile-nav__item border-bottom">
+
+                  <a href="a2ghee.html" class="mobile-nav__sublist-link jsNav">
+                    <span class="mobile-nav__label">Ghee</span>
+                  </a>
+
+                </li>
+
+
+
+              </ul>
+
+            </li>
+
+            <li class="mobile-nav__item border-bottom">
+
+              <a href="book-a-free-trial.php" class="mobile-nav__link mobile-nav__link--active jsNav"
+                aria-current="page">
+                <span class="mobile-nav__label">Book a Trial</span>
+              </a>
+
+            </li>
+
+            <li class="mobile-nav__item border-bottom">
+
+              <a href="minksha-assurance.html" class="mobile-nav__link jsNav">
+                <span class="mobile-nav__label">Minksha Assurance</span>
+              </a>
+
+            </li>
+
+            <li class="mobile-nav__item border-bottom">
+
+              <a href="about-us.html" class="mobile-nav__link jsNav">
+                <span class="mobile-nav__label">About us</span>
+              </a>
+
+            </li>
+
+            <li class="mobile-nav__item border-bottom">
+
+              <a href="contact.html" class="mobile-nav__link jsNav">
+                <span class="mobile-nav__label">Contact</span>
+              </a>
+
+            </li>
+
+
+          </ul>
+        </nav>
+      </header>
+      <div class="header-back"></div>
+
+
+    </div>
+
+
+
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Minksha Milk",
+
+
+        "logo": "https:\/\/cdn.shopify.com\/s\/files\/1\/0534\/8674\/7803\/files\/logo-removebg-preview_74x.png?v=1622555408",
+
+        "sameAs": [
+          "",
+          "book-a-free-trial.php\/\/www.facebook.com\/Minkshamilkindia",
+          "",
+          "book-a-free-trial.php\/\/www.instagram.com\/Minkshamilk\/",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "url": "https:\/\/Minkshamilk.co.in\/pages\/book-a-free-trial"
+      }
+    </script>
+
+
+
+
+  </div>
+
+  <div class="page-container drawer-page-content" id="PageContainer">
+
+    <main class="main-content js-focus-hidden" id="MainContent" role="main" tabindex="-1">
+      <div class="page-width">
+        <div class="grid">
+          <div class="grid__item medium-up--five-sixths medium-up--push-one-twelfth">
+            <div class="section-header text-center">
+              <h1>Book a trial</h1>
+            </div>
+
+            <div class="rte">
+              <div class="grid grid--uniform">
+                <div class="grid__item one-half small--one-whole mobile">
+                  <img src="../assets/img/trial.jpg" height="">
+                </div>
+                <div class="grid__item one-half small--one-whole">
+
+                  <!-- <div class="images">
+        <img src="assets/img/bannerimage.jpeg">
+      </div>-->
+
+
+                  <div class="login-page templateWrapper" style="">
+                    <div class="form disclosure__toggle" style=" ">
+                      <h2 class="frmTitle">For Special Offers
+                      </h2>
+                      <p class="frmDesc">Order your trial now!</p><br>
+                      <form class="login-form" action="https://aaplda.com/Minksha/minksha/index.php" method="post">
+                        <lable>Name</lable>
+                        <input type="text" name="name" placeholder="Full Name" />
+                        <lable>Email</lable>
+                        <input type="text" name="email" placeholder="Email" />
+                        <lable>Address</lable>
+                        <input type="text" name="address" placeholder="Address" />
+                        <lable>Phone</lable>
+                        <input type="text" name="phone" placeholder="Phone" />
+                        <p style="text-align: center; "><br>
+                          <button type="submit" name="submit" class="button"
+                            style="text-align: center; background-color: #000;color: #fff;">Submit</button>
+                        </p>
+                      </form>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+  </main>
+  <div id="shopify-section-footer-new" class="shopify-section">
+    <div class="footer-wrap">
+      <div class="footer">
+        <div class="footer-menu small--hide">
+          <ul>
+            <li><a href="about-us.html" title="">About us</a></li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.minksha.minkshaapp" title="">Subscribe</a>
+            </li>
+            <li><a href="book-a-free-trial.php" title="">BOOK A TRIAL</a></li>
+            <li><a href="contact.php" title="">Contact</a></li>
+          </ul>
+        </div>
+        <div class="footer-social">
+          <ul>
+            <li class="social-icons__item">
+              <a class="social-icons__link" href="https://m.facebook.com/101818998068158/"
+                aria-describedby="a11y-external-message" target="_blank"><svg aria-hidden="true" focusable="false"
+                  role="presentation" class="icon icon-facebook" viewBox="0 0 20 20">
+                  <path fill="#444"
+                    d="M18.05.811q.439 0 .744.305t.305.744v16.637q0 .439-.305.744t-.744.305h-4.732v-7.221h2.415l.342-2.854h-2.757v-1.83q0-.659.293-1t1.073-.342h1.488V3.762q-.976-.098-2.171-.098-1.634 0-2.635.964t-1 2.72V9.47H7.951v2.854h2.415v7.221H1.413q-.439 0-.744-.305t-.305-.744V1.859q0-.439.305-.744T1.413.81H18.05z" />
+                  </svg><span class="icon__fallback-text">Facebook</span>
+              </a>
+            </li>
+            <li class="social-icons__item">
+              <a class="social-icons__link" href="https://www.instagram.com/minksha_a2milk/"
+                aria-describedby="a11y-external-message" target="_blank"><svg aria-hidden="true" focusable="false"
+                  role="presentation" class="icon icon-instagram" viewBox="0 0 512 512">
+                  <path
+                    d="M256 49.5c67.3 0 75.2.3 101.8 1.5 24.6 1.1 37.9 5.2 46.8 8.7 11.8 4.6 20.2 10 29 18.8s14.3 17.2 18.8 29c3.4 8.9 7.6 22.2 8.7 46.8 1.2 26.6 1.5 34.5 1.5 101.8s-.3 75.2-1.5 101.8c-1.1 24.6-5.2 37.9-8.7 46.8-4.6 11.8-10 20.2-18.8 29s-17.2 14.3-29 18.8c-8.9 3.4-22.2 7.6-46.8 8.7-26.6 1.2-34.5 1.5-101.8 1.5s-75.2-.3-101.8-1.5c-24.6-1.1-37.9-5.2-46.8-8.7-11.8-4.6-20.2-10-29-18.8s-14.3-17.2-18.8-29c-3.4-8.9-7.6-22.2-8.7-46.8-1.2-26.6-1.5-34.5-1.5-101.8s.3-75.2 1.5-101.8c1.1-24.6 5.2-37.9 8.7-46.8 4.6-11.8 10-20.2 18.8-29s17.2-14.3 29-18.8c8.9-3.4 22.2-7.6 46.8-8.7 26.6-1.3 34.5-1.5 101.8-1.5m0-45.4c-68.4 0-77 .3-103.9 1.5C125.3 6.8 107 11.1 91 17.3c-16.6 6.4-30.6 15.1-44.6 29.1-14 14-22.6 28.1-29.1 44.6-6.2 16-10.5 34.3-11.7 61.2C4.4 179 4.1 187.6 4.1 256s.3 77 1.5 103.9c1.2 26.8 5.5 45.1 11.7 61.2 6.4 16.6 15.1 30.6 29.1 44.6 14 14 28.1 22.6 44.6 29.1 16 6.2 34.3 10.5 61.2 11.7 26.9 1.2 35.4 1.5 103.9 1.5s77-.3 103.9-1.5c26.8-1.2 45.1-5.5 61.2-11.7 16.6-6.4 30.6-15.1 44.6-29.1 14-14 22.6-28.1 29.1-44.6 6.2-16 10.5-34.3 11.7-61.2 1.2-26.9 1.5-35.4 1.5-103.9s-.3-77-1.5-103.9c-1.2-26.8-5.5-45.1-11.7-61.2-6.4-16.6-15.1-30.6-29.1-44.6-14-14-28.1-22.6-44.6-29.1-16-6.2-34.3-10.5-61.2-11.7-27-1.1-35.6-1.4-104-1.4z" />
+                  <path
+                    d="M256 126.6c-71.4 0-129.4 57.9-129.4 129.4s58 129.4 129.4 129.4 129.4-58 129.4-129.4-58-129.4-129.4-129.4zm0 213.4c-46.4 0-84-37.6-84-84s37.6-84 84-84 84 37.6 84 84-37.6 84-84 84z" />
+                  <circle cx="390.5" cy="121.5" r="30.2" /></svg><span class="icon__fallback-text">Instagram</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="footer-bottom">
+          <ul>
+            <li>Copyright &COPY; 2021 Minksha Innovations Pvt Limited</li>
+            <li><a href="privacy-policy.html" title="">Privacy Policy</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div id="slideshow-info" class="visually-hidden" aria-hidden="true">Use left/right arrows to navigate the slideshow or
+    swipe left/right if using a mobile device</div>
+
+  </div>
+
+  <script type="application/json" data-cart-routes>
+    {
+      "cartUrl": "/cart",
+      "cartAddUrl": "/cart/add",
+      "cartChangeUrl": "/cart/change"
+    }
+  </script>
+
+  <ul hidden>
+    <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
+    <li id="a11y-selection-message">Press the space key then arrow keys to make a selection.</li>
+  </ul>
+
+
+
+
+
+</body>
+
+</html>
+<?php 
+if(isset($_POST['submit'])){
+    $to = "shahzad.digirex@gmail.com"; // this is your Email address
+  echo  $from = $_POST['email']; // this is the sender's Email address
+  echo  $first_name = $_POST['name'];
+    $last_name = $_POST['address'];
+    $subject = "Form submission";
+    $subject2 = "Copy of your form submission";
+    $message = $first_name . " " . $last_name . " wrote the following:" . "\n\n" . $_POST['address'];
+    $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['address'];
+
+    $headers = "From:" . $from;
+    $headers2 = "From:" . $to;
+    $mail_status =  mail($to,$subject,$message,$headers);
+   
+      if($mail_status){
+      	//$mail_status->ErrorInfo;
+       echo 'mail send';
+      }else{
+      		$mail_status->ErrorInfo;
+       echo 'mail not send';
+      }
+    // Send email 
+	
+    
+    // You can also use header('Location: thank_you.php'); to redirect to another page.
+    }
+?>
